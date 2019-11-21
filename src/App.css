@@ -1,0 +1,14 @@
+
+h1{
+  font-size: 3vw;
+  padding-left: 2vw;
+}
+
+#container {
+	background: black;
+  width: 30%;
+  height: 91vh;
+	color: white;
+	padding: 3%;
+}
+

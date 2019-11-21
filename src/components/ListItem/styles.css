@@ -1,0 +1,36 @@
+
+a:link {
+    background-color: white;
+    color: black;
+    padding: 4% 4%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border:1px solid;
+    border-top-right-radius: 25% 50%;
+    border-bottom-right-radius: 25% 50%;
+    border-top-left-radius: 25% 50%;
+    border-bottom-left-radius: 25% 50%;
+    font-size: 1.25vw;
+    font-weight: bold;
+    min-height:20px;
+  }
+
+  a:visited {
+    background-color: white;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.1em;
+    font-weight: bold;
+  }
+  li{
+   
+  padding:10px;
+  margin-left:10px;
+
+  min-width: 20px; 
+  }
+
