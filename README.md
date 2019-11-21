@@ -1,7 +1,7 @@
 # camp-features
-First clone the repository.
-cd into the repository.
-run  ```yarn install```.
+First clone the repository.<br />
+cd into the repository.<br />
+run  ```yarn install```.<br />
 
 
 ## Available Scripts
