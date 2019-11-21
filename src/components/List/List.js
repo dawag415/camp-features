@@ -5,7 +5,7 @@ class List extends Component {
     render(){
         let LI = this.props.list.map((item) => {
             return( <li>
-                        <ListItem key={item.title.toString()} item={item} />
+                        <ListItem key={item.title} item={item} />
                     </li>
             );
         });
